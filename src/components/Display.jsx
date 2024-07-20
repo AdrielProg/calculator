@@ -1,7 +1,7 @@
-import './Display.css'
+import "./Display.css";
 
 const Display = (props) => {
-   return <div className="display"> {props.value} </div>
-}
+  return <div className="display"> {props.value} </div>;
+};
 
-export default Display
+export default Display;
